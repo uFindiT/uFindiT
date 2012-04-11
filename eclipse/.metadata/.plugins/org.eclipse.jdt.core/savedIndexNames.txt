@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/jklepp/Dokumente/Schule/PPM/ubahn/eclipse/.metadata/.plugins/org.eclipse.jdt.core
+4230469708.index
